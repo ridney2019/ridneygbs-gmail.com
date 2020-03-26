@@ -1,2 +1,5 @@
-# ridneygbs-gmail.com
-cadastro-pessoa
+Cadastro de Pessoa
+
+Utilizando as tecnologias:
+
+AngularCLI + Nodejs
